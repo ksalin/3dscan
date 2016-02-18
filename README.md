@@ -1,4 +1,7 @@
 3D scanning control program for RPi
+===================================
+
+Copyright (C) 2016 Jussi Salin <salinjus@gmail.com> under GPLv3.
 
 Rotates an object by a stepper motor by 360 degrees by user adjustable steps and sends IR remote command to shoot a photo with a high quality camera every step. The resulting photos can be used in some commercial programs to generate a 3D model of the actual model using image recognition and stable high quality photos taken with accurate rotation.
 
